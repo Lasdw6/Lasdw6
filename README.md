@@ -3,6 +3,7 @@
 I'm a 2nd year Combinatorics and Optimization Student at the University of Waterloo
 
 Currently: SWE @[GOQii](https://goqii.com/us-en)
+
 Previous Internships: MLE @[The Innovation Story](https://www.theinnovationstory.com/), SWE @Electron Online
 
 📨Feel free to reach out to me at: v7mahaja@uwaterloo.ca & linkedin.com/in/vividhm
