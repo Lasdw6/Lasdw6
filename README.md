@@ -6,7 +6,7 @@ Currently: SWE @[GOQii](https://goqii.com/us-en)
 
 Previous Internships: MLE @[The Innovation Story](https://www.theinnovationstory.com/), SWE @Electron Online
 
-📨Feel free to reach out to me at: v7mahaja@uwaterloo.ca & linkedin.com/in/vividhm
+📨Feel free to reach out to me at: v7mahaja@uwaterloo.ca & [linkedin.com/in/vividhm](linkedin.com/in/vividhm)
 
 
 <!--
