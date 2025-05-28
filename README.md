@@ -6,11 +6,12 @@ Currently: SWE @[GOQii](https://goqii.com/us-en)
 
 Previous Internships: MLE @[The Innovation Story](https://www.theinnovationstory.com/), SWE @Electron Online
 
-📨Feel free to reach out to me at: v7mahaja@uwaterloo.ca & [linkedin.com/in/vividhm](linkedin.com/in/vividhm)
+💻 Portfolio: [vividh.lol](vividh.lol)
+
+📩Feel free to reach out to me at: v7mahaja@uwaterloo.ca & [linkedin.com/in/vividhm](linkedin.com/in/vividhm)
 
 
 <!--
-💻 Portfolio: vividh.com
 
 **Lasdw6/Lasdw6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
