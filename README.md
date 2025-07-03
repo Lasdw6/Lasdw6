@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 2nd year Combinatorics and Optimization Student at the University of Waterloo
+I'm a 3rd year Combinatorics and Optimization Student at the University of Waterloo
 
 Currently: SWE @[GOQii](https://goqii.com/us-en)
 
