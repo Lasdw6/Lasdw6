@@ -4,7 +4,7 @@ I'm a 3rd year Combinatorics and Optimization Student at the University of Water
 
 Currently: SWE @[GOQii](https://goqii.com/us-en)
 
-Previous Internships: MLE @[The Innovation Story](https://www.theinnovationstory.com/), SWE @Electron Online
+Previous Internships: MLE @[The Innovation Story](https://www.theinnovationstory.com/), SWE @[Electron Online](https://www.electrongroup.com/), SWE @[Scitara Technologies](https://www.scitara.com/)
 
 💻 Portfolio: [vividh.lol](https://www.vividh.lol/)
 
