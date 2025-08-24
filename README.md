@@ -2,9 +2,9 @@
 
 I'm a 3rd year Combinatorics and Optimization Student at the University of Waterloo
 
-Currently: SWE @[GOQii](https://goqii.com/us-en)
+Currently: SWE @[Manulife](https://manulife.com/)
 
-Previous Internships: MLE @[The Innovation Story](https://www.theinnovationstory.com/), SWE @[Electron Online](https://www.electrongroup.com/), SWE @[Scitara Technologies](https://www.scitara.com/)
+Previous Internships: SWE @[GOQii](https://goqii.com/us-en), MLE @[The Innovation Story](https://www.theinnovationstory.com/), SWE @[Electron Online](https://www.electrongroup.com/), SWE @[Scitara Technologies](https://www.scitara.com/)
 
 💻 Portfolio: [vividh.lol](https://www.vividh.lol/)
 
