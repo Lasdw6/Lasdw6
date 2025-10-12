@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 3rd year Combinatorics and Optimization Student at the University of Waterloo
+I'm a 3rd-year Combinatorics and Optimization Student at the University of Waterloo
 
 Currently: SWE @[Manulife](https://manulife.com/)
 
