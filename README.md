@@ -10,7 +10,7 @@ Previous Internships: SWE @[GOQii](https://goqii.com/us-en), MLE @[The Innovatio
 
 🛠️Projects Summary: [/Projects](https://github.com/Lasdw6/Projects)
 
-📩Feel free to reach out to me at: v7mahaja@uwaterloo.ca & [linkedin.com/in/vividhm](linkedin.com/in/vividhm)
+📩Feel free to reach out to me at: [linkedin.com/in/vividhm](linkedin.com/in/vividhm)
 
 
 <!--
