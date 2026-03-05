@@ -2,6 +2,8 @@
 
 I'm a 3rd-year Combinatorics and Optimization Student at the University of Waterloo
 
+Currently Building: [Harness.gg](https://harness.gg) - CLI tools that let AI agents use desktop apps with zero setup.
+
 Previous Internships: AI Fullstack SWE @[Manulife](https://manulife.com/), AI SWE @[GOQii](https://goqii.com/us-en), MLE @[The Innovation Story](https://www.theinnovationstory.com/), Fullstack SWE @[Electron Online](https://www.electrongroup.com/), SWE @[Scitara Technologies](https://www.scitara.com/)
 
 💻 Portfolio: [vividh.lol](https://www.vividh.lol/)
